@@ -1,0 +1,18 @@
+# Paper-trade logs and local working state — never commit
+predictions*.csv
+kalshi_predictions.csv
+*.log
+latest_report.txt
+technical_log.txt
+server.log
+.run.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
